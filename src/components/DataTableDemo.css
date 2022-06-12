@@ -1,0 +1,26 @@
+
+.datatable-editing-demo .editable-cells-table td.p-cell-editing .p-datatable-thead{
+    padding-top: 0;
+    padding-bottom: 0;
+    border: 1px solid grey;
+  
+  
+}
+.datatable-editing-demo .p-datatable .p-datatable-thead >tr > th{
+    background-color: #b1bcdb;
+    color: #405685;
+    border-bottom: 1px solid grey;
+}
+
+.edit_button{
+    display: flex;
+    justify-content: flex-end; 
+    margin-top: 1rem;
+  }
+  .datatable-templating-demo .p-datatable .p-datatable-thead > tr > th{
+    color:white ;
+    background-color: #405685;
+
+    /* border-bottom: 1px solid grey; */
+  }
+
